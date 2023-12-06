@@ -1,0 +1,13 @@
+dea/
+.vscode/
+functions/photos/
+# not project files
+__pycache__
+nohup.out
+db.sqlite3
+.db
+.DS_Store
+.env
+.ruff_cache
+.bat
+.lock
